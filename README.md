@@ -1,4 +1,4 @@
-# J2-algorithm-DOE
+# J2-algorithm-DOE (2016)
 _Matlab implementation of the J2-optimal OA/NOA constructor for Design of Experiments_
 
 
