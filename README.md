@@ -10,7 +10,7 @@ In the design of large experiments, there is a need to balance statistical quali
 
 Detailed in Xu (2002) is an algorithm for constructing OAs/NOAs for mixed levels and small run sizes.
 
-This project is an implementation of the algorithm for the MATLAB environment. The project presently contains only a Matlab command-line interface for manipulation - a GUI will be added for greater simplicity in designing complex experiments.
+This project is an implementation of the algorithm for the MATLAB environment.
 
 
 
